@@ -17,7 +17,7 @@ Por ejemplo, si el número definido es **54**, la salida será:
 Desarrollar un programa que realice **la sumatoria** de todas las iteraciones de un ciclo, **desde 0 hasta un número entero definido previamente**, al resultado de la suma realizar las siguientes operaciones. 
 
 - Elevar al cuadrado
-- Raíz cuadrada "(Math.sqrt(numero))"
+- Raíz cuadrada `(Math.sqrt(numero))`
 - Determinar los divisores. 
 - Hallar la factorial. 
 
